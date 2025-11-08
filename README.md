@@ -3,7 +3,7 @@
 
 - 🔭 Trabalho atualmente em **Freela Code LTDA**
 
-- 👨‍💻 Veja alguns de nossos projetos [PORTIFÓLIO](https://freelacode.com.br/portifolio.php)
+- 👨‍💻 Veja alguns de nossos projetos [PORTIFÓLIO](https://freelacode.com.br/portfolio/)
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
